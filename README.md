@@ -57,6 +57,7 @@ The model achieved strong performance in detecting helmets, with improved recall
 
 * Deployed using **Hugging Face Spaces**
 * Web interface allows users to upload images and view detection results
+  https://huggingface.co/spaces/aavv77662/Safety_Helmet_Detection
 
 ## 🛠️ Technologies Used
 
